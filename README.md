@@ -60,6 +60,6 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 
 #### Other Members:
 * [Abel Hailemariam](https://github.com/[abelhaile])
-* [Jonpaul Mastropaolo](https://github.com/[Jmastro88])
+* [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
 
 
