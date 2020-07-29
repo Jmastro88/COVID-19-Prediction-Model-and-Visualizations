@@ -58,7 +58,7 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 - statistical modeling
 - writeup/reporting
 
-#### Other Members:
+#### Other Contributors:
 * [Abel Hailemariam](https://github.com/[abelhaile])
 * [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
 
