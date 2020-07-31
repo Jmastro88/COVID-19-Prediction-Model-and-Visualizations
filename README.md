@@ -62,13 +62,15 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
     * Developed the D3 visualizations.
     * Assisted with Python data formatting.
     * Assisted with Machine Learning in AzureML.
+    * Asisted in Stricturing the Results Form of the website.
 * [Atusa Seyednaseri](https://www.linkedin.com/in/atusa-naseri/)
     * Developed the HTML, Javascript, and web hosting through AWS Zappa.
     * Assisted with python data formating and flask.
     * Assisted with Machine Learning in AzureML.
+    * Asisted in Stricturing the Results Form of the website.
 * [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
     * Created the Tableau visualizations.
-    * Asisted in Stricturing the Results Form.
+    * Asisted in Stricturing the Results Form of the website.
     * Used Java Script and HTML to restructure the website.
     * Asisted in developing flask.
 
