@@ -3,7 +3,7 @@
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is to provide data visualizations and machine learning to predict the possiblity of someone having covid-19 based off of their symptoms and underlying conditions 
+The purpose of this project is to provide data visualizations and machine learning to predict the possibility of someone having covid-19 based off of their symptoms and underlying conditions 
 
 ### Methods Used
 * Machine Learning
@@ -11,11 +11,11 @@ The purpose of this project is to provide data visualizations and machine learni
 
 ### Libraries and Platforms
 * Python
-* Azureml(Classifiers and Regressors)
+* Azureml (Classifiers and Regressors)
 * D3
 * Tableau
 * JavaScript
-* Pandas, jupyter
+* Pandas, Jupyter
 * HTML, Bootstrap, CSS
 * Flask 
 * AWS, Zappa
@@ -57,21 +57,20 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 - statistical modeling
 - writeup/reporting
 
-#### Contributors:
+### Contributors:
 * [Abel Hailemariam](https://www.linkedin.com/in/abel-hailemariam-a04a08a4/)
     * Developed the D3 visualizations.
     * Assisted with Python data formatting.
     * Assisted with Machine Learning in AzureML.
-    * Asisted in Stricturing the Results Form of the website.
+    * Assisted in structuring the Results Form of the website.
 * [Atusa Seyednaseri](https://www.linkedin.com/in/atusa-naseri/)
-    * Developed the HTML, Javascript, and web hosting through AWS Zappa.
-    * Assisted with python data formating and flask.
+    * Developed the HTML, JavaScript, and web hosting through AWS Zappa.
+    * Assisted with python data formatting and flask.
     * Assisted with Machine Learning in AzureML.
-    * Asisted in Stricturing the Results Form of the website.
+    * Assisted in Structuring the Results Form of the website.
 * [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
     * Created the Tableau visualizations.
-    * Asisted in Stricturing the Results Form of the website.
+    * Assisted in Structuring the Results Form of the website.
     * Used Java Script and HTML to restructure the website.
-    * Asisted in developing flask.
-
+    * Assisted in developing flask.
 
