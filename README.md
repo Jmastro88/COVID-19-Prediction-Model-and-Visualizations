@@ -57,7 +57,7 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 - statistical modeling
 - writeup/reporting
 
-#### Other Contributors:
+#### Contributors:
 * [Abel Hailemariam](https://www.linkedin.com/in/abel-hailemariam-a04a08a4/)
     * Developed the D3 visualizations.
     * Assisted with Python data formatting.
