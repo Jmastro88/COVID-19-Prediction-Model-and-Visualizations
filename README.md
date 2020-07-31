@@ -51,7 +51,6 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 * Decision Forests Model
 
 ## Needs of this project
-
 - frontend developers
 - data exploration
 - data processing/cleaning
@@ -60,6 +59,17 @@ Total 1900 data of patients with 85 columns of patients' symptoms and pre-condit
 
 #### Other Contributors:
 * [Abel Hailemariam](https://www.linkedin.com/in/abel-hailemariam-a04a08a4/)
+    * Developed the D3 visualizations.
+    * Assisted with Python data formatting.
+    * Assisted with Machine Learning in AzureML.
 * [Atusa Seyednaseri](https://www.linkedin.com/in/atusa-naseri/)
+    * Developed the HTML, Javascript, and web hosting through AWS Zappa.
+    * Assisted with python data formating and flask.
+    * Assisted with Machine Learning in AzureML.
+* [Jonpaul Mastropaolo](https://www.linkedin.com/in/jonpaul-mastropaolo-a5310552/)
+    * Created the Tableau visualizations.
+    * Asisted in Stricturing the Results Form.
+    * Used Java Script and HTML to restructure the website.
+    * Asisted in developing flask.
 
 
